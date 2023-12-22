@@ -1,0 +1,8 @@
+2023-12-22 23:19:22.547  8773-8773  c.a.f.u.f.MainFragment  com.amaze.filemanager.debug          E  [main                ] Failed to get viewmodel, fragment not yet added
+2023-12-22 23:19:22.624  8773-8773  RecyclerView            com.amaze.filemanager.debug          E  No adapter attached; skipping layout
+2023-12-22 23:19:22.625  8773-8773  RecyclerView            com.amaze.filemanager.debug          E  No adapter attached; skipping layout
+2023-12-22 23:19:22.739  8773-8773  RecyclerView            com.amaze.filemanager.debug          E  No adapter attached; skipping layout
+2023-12-22 23:19:22.739  8773-8773  RecyclerView            com.amaze.filemanager.debug          E  No adapter attached; skipping layout
+2023-12-22 23:20:24.582  8773-8782  SpellCheckerSession     com.amaze.filemanager.debug          E  ignoring processOrEnqueueTask due to unexpected mState=TASK_CLOSE scp.mWhat=TASK_CLOSE
+2023-12-22 23:20:33.749  8773-8782  SpellCheckerSession     com.amaze.filemanager.debug          E  ignoring processOrEnqueueTask due to unexpected mState=TASK_CLOSE scp.mWhat=TASK_CLOSE
+2023-12-22 23:20:33.751  8773-8782  SpellCheckerSession     com.amaze.filemanager.debug          E  ignoring processOrEnqueueTask due to unexpected mState=TASK_CLOSE scp.mWhat=TASK_CLOSE
